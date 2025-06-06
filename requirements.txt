@@ -12,3 +12,4 @@ pymupdf
 wikipedia
 langchain_huggingface
 faiss-cpu
+langchain-pinecone

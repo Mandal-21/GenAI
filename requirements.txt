@@ -15,3 +15,4 @@ faiss-cpu
 langchain-pinecone
 youtube_search
 langgraph
+chromadb

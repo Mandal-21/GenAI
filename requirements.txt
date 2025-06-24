@@ -18,3 +18,5 @@ langgraph
 chromadb
 duckduckgo-search
 yfinance
+langchain-experimental
+matplotlib

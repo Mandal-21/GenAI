@@ -20,3 +20,6 @@ duckduckgo-search
 yfinance
 langchain-experimental
 matplotlib
+autogen-agentchat
+autogen-core
+autogen-ext
